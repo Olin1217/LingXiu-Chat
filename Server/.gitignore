@@ -1,0 +1,6 @@
+.env
+*.key
+*.pem
+backups/
+__pycache__/
+*.pyc
